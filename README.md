@@ -1,5 +1,10 @@
 # openai-split-eightfold-gap
 
+> **Status.** Published 2026-10-07 (18:17 UTC) and reported to OpenAI the same afternoon. On 2026-10-08 (05:18 UTC)
+> OpenAI withdrew this paper and two papers that depend on it, citing "a sign error [that] invalidates a
+> stabilization-trace cancellation argument" ([history](https://github.com/openai/math/blob/main/history.md)).
+> Worked out by Nathan Humphrey with Claude and a GPT model.
+
 A sign-convention check of Proposition 3.1 in *Algebraicity of Weil classes on split abelian eightfolds* (OpenAI, 2026-09-18):
 https://github.com/openai/math/blob/main/preprints/Algebraicity-of-Weil-classes-on-split-abelian-eightfolds-September-18-2026/paper.pdf
 
